@@ -1,0 +1,24 @@
+{
+  "name": "com.yijiu.gitpackagemanager",
+  "version": "1.0.0",
+  "displayName": "Git Package Manager",
+  "description": "Unity编辑器的Git包管理工具，支持多种导入方式、分类管理和搜索功能。",
+  "unity": "2022.2",
+  "keywords": [
+    "unity",
+    "editor",
+    "git",
+    "package",
+    "upm",
+    "manager"
+  ],
+  "author": {
+    "name": "依旧",
+    "email": "1228267639@qq.com",
+    "url": "https://github.com/YiJiu-Li"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/YiJiu-Li/GitPackageManager",
+  "changelogUrl": "https://github.com/YiJiu-Li/GitPackageManager/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/YiJiu-Li/GitPackageManager/blob/main/LICENSE"
+}
